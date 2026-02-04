@@ -2,7 +2,7 @@
 
 **Agentic AI framework for continuously maintaining survey papers as living documents.**
 
-This repository accompanies the paper  
+This is the official repository for the paper  
 **Agentic AI-Empowered Dynamic Survey Framework**, which reframes survey writing as a long-horizon maintenance problem rather than a one-time generation task.
 
 ---
