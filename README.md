@@ -19,6 +19,16 @@ The Dynamic Survey Framework uses a collection of specialized, agentic component
 - determine *where* they should be integrated, and
 - perform conservative, localized updates that minimize unnecessary disruption.
 
+
+<p align="center">
+  <img src="assets/framework_overview.png" width="800">
+</p>
+
+<p align="center">
+  <em>Overview of the agentic Dynamic Survey Framework. Incoming papers are analyzed,
+  routed, and conservatively integrated into an existing survey.</em>
+</p>
+
 ---
 
 ## 🔑 Key Ideas
