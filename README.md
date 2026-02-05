@@ -90,7 +90,7 @@ The initial public release of code and benchmarks will follow soon.
 If you find this work useful, please cite the paper:
 
 ```bibtex
-@article{mumcu2025agentic,
+@article{mumcu2026agentic,
   title={Agentic AI-Empowered Dynamic Survey Framework},
   author={Mumcu, Furkan and Bekit, Lokman and Jones, Michael J and Cherian, Anoop and Yilmaz, Yasin},
   journal={arXiv preprint arXiv:2602.04071},
