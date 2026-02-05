@@ -1,5 +1,7 @@
 # Dynamic Survey Framework
 
+[![Paper](https://img.shields.io/badge/arxiv-2602.04071-b31b1b.svg)](https://arxiv.org/abs/2602.04071)
+
 **Agentic AI framework for continuously maintaining survey papers as living documents.**
 
 This is the official repository for the paper  
@@ -81,23 +83,17 @@ The initial public release of code and benchmarks will follow soon.
 
 ---
 
-## 📄 Paper
 
-**Agentic AI-Empowered Dynamic Survey Framework**  
-arXiv: *to appear*
-
-A BibTeX entry will be added once the arXiv identifier is available.
-
----
 
 ## 📌 Citation
 
 If you find this work useful, please cite the paper:
 
 ```bibtex
-@article{mumcu2026dynamicsurvey,
-  title   = {Agentic AI-Empowered Dynamic Survey Framework},
-  author  = {Mumcu, Furkan and Bekit, Lokman and Jones, Michael J. and Cherian, Anoop and Yilmaz, Yasin},
-  journal = {arXiv preprint},
-  year    = {2026}
+@article{mumcu2025llm,
+  title={Agentic AI-Empowered Dynamic Survey Framework},
+  author={Mumcu, Furkan and Bekit, Lokman and Jones, Michael J and Cherian, Anoop and Yilmaz, Yasin},
+  journal={arXiv preprint arXiv:2602.04071},
+  year={2026}
 }
+
